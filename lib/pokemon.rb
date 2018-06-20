@@ -10,5 +10,5 @@ class Pokemon
     @hp = hp
   end
 
-  
+
 end
